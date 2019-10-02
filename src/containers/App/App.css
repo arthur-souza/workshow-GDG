@@ -1,9 +1,9 @@
-.App {
-  text-align: center;
-}
-
 .App-logo {
   height: 40vmin;
+}
+
+.isDone {
+  text-decoration: line-through;
 }
 
 .App-header {
